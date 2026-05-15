@@ -9,8 +9,13 @@ The goal is to transform raw transactional data into business insights through d
 ## Tools Used
 - SQL (DB Browser for SQLite)
 - Tableau Public
+  
+## Database Schema
+The dashboard was built using multiple relational tables from the [Olist e-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data), including orders, payments, products, and customer information.
 
-## Key Business Questions
+![ERD](images/erd.png)
+
+## Business Questions
 1. How did revenue and order volume change over time?
 2. Which product categories generated the highest revenue?
 3. Which payment methods contributed most to sales?
