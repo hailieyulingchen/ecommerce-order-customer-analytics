@@ -38,4 +38,4 @@ The dashboard was built using multiple relational tables from the [Olist e-comme
 [View Tableau Dashboard](https://public.tableau.com/views/E-commerceOrderCustomerAnalytics/1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.png)
