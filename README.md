@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This project analyzes e-commerce sales, customer behavior, payment methods, and product category performance using SQL and Tableau.
+E-commerce companies generate large amounts of transactional and customer behavior data every day. 
+Analyzing this data can help businesses understand sales performance, customer purchasing behavior, and product trends to support decision-making.
 
-The goal is to transform raw transactional data into business insights through data cleaning, SQL analysis, and interactive dashboard visualization.
+This project analyzes e-commerce orders, payments, and product categories using SQL and Tableau. 
+The goal is to transform raw transactional data into actionable business insights through data processing, SQL analysis, and interactive dashboard visualization.
 
 ## Tools Used
 - SQL (DB Browser for SQLite)
