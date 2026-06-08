@@ -1,4 +1,4 @@
-# E-commerce Order & Customer Analytics Dashboard
+# E-commerce Sales Analytics Dashboard
 
 ## Project Overview
 
